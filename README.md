@@ -108,6 +108,10 @@ with Visual Studio 2010, you will probably need the 32 bit
 libraries.  [boost precomplied libraries]
 (http://sourceforge.net/projects/boost/files/boost-binaries/1.53.0/)
 
+Another way is the follow the [official documentation]
+(http://www.boost.org/doc/libs/1_63_0/more/getting_started/windows.html)
+on installing boost on Windows.
+
 Under windows, the cmake gui can be used to construct solution
 and project files for Visual Studio 2010.  To do this, browse
 source to locate the programs directory git/pokerstove/programs.
